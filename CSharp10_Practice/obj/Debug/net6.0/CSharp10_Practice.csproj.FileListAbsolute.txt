@@ -1,0 +1,15 @@
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\bin\Debug\net6.0\CSharp10_Practice.exe
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\bin\Debug\net6.0\CSharp10_Practice.deps.json
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\bin\Debug\net6.0\CSharp10_Practice.runtimeconfig.json
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\bin\Debug\net6.0\CSharp10_Practice.dll
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\bin\Debug\net6.0\CSharp10_Practice.pdb
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.csproj.AssemblyReference.cache
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.AssemblyInfoInputs.cache
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.AssemblyInfo.cs
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.csproj.CoreCompileInputs.cache
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.dll
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\refint\CSharp10_Practice.dll
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.pdb
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\CSharp10_Practice.genruntimeconfig.cache
+D:\Data\Personal\CSharp10_Practice\CSharp10_Practice\obj\Debug\net6.0\ref\CSharp10_Practice.dll
